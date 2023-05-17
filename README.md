@@ -8,7 +8,7 @@ O projeto consiste em criar 3 serviços: Escola, Biblioteca e Autenticação. A 
 - [Laravel](https://laravel.com/)
 
 ## Executando o Serviço
-Após instalar o Laravel, basta baixar o projeto. Uma vez com o projeto instalado na máquina, abra o terminal e digite:
+Após instalar o Laravel, basta baixar o projeto. Uma vez com o projeto instalado na máquina, abra o terminal no projeto e digite:
 ```sh
 composer install
 ```
