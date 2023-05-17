@@ -22,3 +22,10 @@ Também é possível vincular a um host específica:
 ```sh
 php artisan serve --host=0.0.0.0 --port=0000
 ```
+
+Exemplos de porta:
+```sh
+8080
+8001
+8002
+```
